@@ -1,0 +1,67 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Nepal's leading online service agency",
+    "subtitle": "Work permit, passport, ticket booking – all services in one place",
+    "learn": "Learn more about us",
+    "see": "See services"
+  },
+  "about": {
+  "title": "About Us",
+  "goals": "Our Goals",
+  "vision": "Our Vision",
+  "mission": "Our Mission",
+  "goals_points": [
+    "Efforts to make all government services online",
+    "Providing timely assistance to customers",
+    "Providing service through a skilled and experienced team"
+  ],
+  "vision_text": "All citizens of Nepal should be able to easily access government and private services via mobile or computer.",
+  "mission_text": "Making all citizens accessible to the digital service system, providing a hassle-free online process experience."
+},
+  "services": {
+    "title": "Our Key Services",
+    "labor": "Labor Permits",
+    "labor_desc": "New/renew work permit easily online",
+    "ticket": "Air Ticket Booking",
+    "ticket_desc": "Book flights at an easy rate",
+    "passport": "e-Passport",
+    "passport_desc": "E-passport booking made easy",
+    "id": "National ID",
+    "id_desc": "Book Citizen ID online",
+    "license": "License",
+    "license_desc": "Submit a driving license form",
+    "psc": "PSC/Teacher",
+    "psc_desc": "Public and Teacher Service Forms",
+    "see_all": "See all services"
+  },
+  "contact": {
+  "title": "Contact",
+  "name": "Name",
+  "email": "Email",
+  "subject": "Subject",
+  "message": "Message",
+  "send": "Send",
+  "address": "Address",
+  "phone": "Phone",
+  "facebook": "Facebook",
+  "whatsapp": "WhatsApp"
+},
+  "feedback": {
+  "title": "Customer Feedback",
+  "msg1": "I easily got my online work permit from PathakOnline. The service provider was very friendly.",
+  "msg2": "Fast and reliable! Highly recommend for passport and ID bookings.",
+  "msg3": "Great support over WhatsApp. Smooth process overall."
+},
+"footer": {
+  "rights": "All rights reserved.",
+  "follow": "Follow Us"
+}
+
+
+}
