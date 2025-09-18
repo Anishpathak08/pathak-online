@@ -8,6 +8,7 @@
   "build": "npx vite build",
   "preview": "vite preview"
 },
+
   "engines": {
   "node": "22.x"
 },
